@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center !important;
+    font-size: 104px;
+}
+
+#headline {
+    text-align: right;
+    color: green;
+}
+
+#firstDiv {
+    background: red;
+    color: blue;
+}
+
+p {
+    text-align: right;
+    color: yellow;
+}
+p:hover {
+    background-color: gray;
+}
+
+.pink {
+    color: pink;
+    font-size: 72px;
+}
